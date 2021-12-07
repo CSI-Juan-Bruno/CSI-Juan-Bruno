@@ -1,5 +1,14 @@
+<div align="center">
+
+<img src="https://thenoshery.com/wp-content/uploads/2021/01/guineos-en-escabeche-04-scaled.jpg" width="520" height="374"/>
+  
 # Manjares Navideños
 ## Guineitos en Escabeche
+
+  
+  
+  </div>
+  
 ### Ingredientes:
 - 3-5 libras de guineos verdes
 - agua abundante
@@ -15,5 +24,28 @@
 - pimienta en grano 1 1/2 cucharadita
 - 1 cebolla amarilla extra grande picada en rodajas o medias rodajas o 1 1/2 cebollas tamaño grande
 - 1 cucharada de pimiento morrón en tiras
-#### Referencia:
+
+#### Instrucciones:
+- En una olla bastante grande (preferiblemente de metal) pon a calentar agua.
+- Lava los guineos con agua.
+- Pica ambas puntas (solo un poco) de los guineos.
+- Con la punta filosa de un cuchillo pequeño, haz una línea vertical de punta a punta de cada guineo. No debe ser muy profunda.
+- Echa los guineos en el agua y añade la leche (si no es vegano).
+- Hierve los guineos aproximadamente 20 minutos o hasta que puedas insertar fácilmente un tenedor de un lado al otro.
+- MIentras hierven los guineos, pica la cebolla en rodajas o medias rodajas (no hace diferencia).
+- En una olla grande calienta los aceites vegetal y de oliva***.
+- Añade la cebolla, los dientes de ajo, las hojas de laurel, y pimieta en grano y sofríe un poco.
+- Baja la temperatura si está muy caliente, el propósito es cocinar la cebolla, no freirla.
+- Añade el vinagre.
+- Añade el sobre de sazón y sasona con adobo y pimienta fresca.
+- Cuando haya hervido por 10 minutos, saca de la hornilla y ponla al lado, si los guineos no están listos.
+- Cuando estén listos los guineos (o después de que la cebolla haya hervido al menos 10 minutos), escurre, enjuaga, quita la cáscara y las puntas de los guineos y corta en pedacitos de 1 pulgada aprox.
+- Añade los guineos picados al aceite de escabeche y hierve unos 10 minutos a fuego bajo.
+- Al cabo de ese tiempo, prueba y rectifica la sal (adobo). Déjate llevar por el sabor del guineo, no de la cebolla o el aceite.
+- Luego de que ya estén terminados de hacer, añade los pimientos morrones y mezcla bien.
+- Guarda en un recipiente bien sellado.
+- Se sirven a temperatura ambiente.
+
+
+##### Referencia:
 - https://ensalpicadas.com/receta-de-guineos-en-escabeche-estilo-puertorriqueno/
