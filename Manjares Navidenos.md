@@ -46,11 +46,11 @@
 18. Guarda en un recipiente bien sellado.
 19. Se sirven a temperatura ambiente.
 
-###### Video
+##### Video
 - https://www.youtube.com/watch?v=X5hCYClSEgA
 
 
-##### Referencia:
+###### Referencia:
 - https://ensalpicadas.com/receta-de-guineos-en-escabeche-estilo-puertorriqueno/
 
 
